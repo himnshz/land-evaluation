@@ -1,0 +1,6 @@
+{
+  "name": "TerraInspect — Explainable Site Intelligence",
+  "description": "Pre-purchase land and geological site intelligence system with explainable terrain, hydrology, and subsurface evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
